@@ -62,12 +62,12 @@
 
     // INHIBITION
     {
-        category: "Cognitive Inhibition",
-        type: "choice",
-        text: "Ignore the word. Select the ink colour.",
-        visual: "BLUE",
-        options: ["RED", "BLUE", "GREEN", "YELLOW"],
-        answer: "RED"
+    category: "Cognitive Inhibition",
+    type: "choice",
+    text: "Ignore the word. Select the ink colour.",
+    visual: '<span style="color: red;">BLUE</span>',
+    options: ["RED", "BLUE", "GREEN", "YELLOW"],
+    answer: "RED"
     },
 
     {
